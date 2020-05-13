@@ -1,14 +1,43 @@
+# Azure Static Web Apps Community Kit
 
-# Contributing
+Host your own community event on Azure Static Web Apps.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+![community-launch-kit-logo](media/launch-kit-logo.png)
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## What's in the kit
+
+* [Presentation slide deck](#presentation-slide-deck)
+* [Presentation director's cut](#presentation-directors-cut)
+* [Presentation Demos](#presentation-demos)
+* [Community Example Apps](#community-example-apps)
+
+### Presentation slide deck
+
+The slide deck features a 37 slide deck with no restrictions on use. Each slide contains notes to help you understand the point for each slide.
+
+The slide deck is in PPTX format. **The animations will work best when running locally in PowerPoint**.
+
+### Presentation director's cut
+
+The director's cut is a video walking through the slides in an actual presentation format. It includes commentary throughout to make it easier for you to give this presentation on your own after watching the video.
+
+### Presentation demos
+
+The demos used in the presentation are offered in the 4 formats: 
+
+1. Angular
+1. React
+1. Vue
+1. Svelte
+
+Each is documented and all implement the same application. Select the demo that works best for your audience.
+
+[ Screenshot of demos goes here ]
+
+### Community Example Apps
+
+We have curated a list of community apps that you can refer to as live examples running on Azure Static Web Apps. All of these applications are open-source, and show off various technologies for implementations of static sites.
+
+TODO: Point to Glaucia's Github Repo
+
