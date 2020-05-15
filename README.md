@@ -25,11 +25,11 @@ The slide deck features a 37 slide deck with no restrictions on use. Each slide 
 
 The slide deck is in PPTX format. **The animations will work best when running locally in PowerPoint**.
 
-### Presentation director's cut
+### Presentation director's cut (Coming soon)
 
 The director's cut is a video walking through the slides in an actual presentation format. It includes commentary throughout to make it easier for you to give this presentation on your own after watching the video.
 
-### Presentation demos
+### Presentation demos (Coming soon)
 
 The demos used in the presentation are offered in the 4 formats: 
 
