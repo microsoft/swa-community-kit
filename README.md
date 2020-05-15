@@ -7,10 +7,17 @@ Host your own community event on Azure Static Web Apps.
 
 ## What's in the kit
 
+* [Video overview of Static Web Apps](#video-overview)
 * [Presentation slide deck](#presentation-slide-deck)
 * [Presentation director's cut](#presentation-directors-cut)
 * [Presentation Demos](#presentation-demos)
 * [Community Example Apps](#community-example-apps)
+
+### Video Overview
+
+A quick six minute video explaining what Azure Static Web Apps is.
+
+<iframe src="https://channel9.msdn.com/Shows/Docs-Azure/Building-and-Deploying-a-Static-Web-App/player" width="960" height="540" allowFullScreen frameBorder="0" title="Scaling .NET for Apache Spark processing jobs with Azure Synapse - Microsoft Channel 9 Video"></iframe>
 
 ### Presentation slide deck
 
