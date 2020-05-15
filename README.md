@@ -33,11 +33,11 @@ The demos used in the presentation are offered in the 4 formats:
 
 Each is documented and all implement the same application. Select the demo that works best for your audience.
 
-[ Screenshot of demos goes here ]
+![](media/demo-preview.png)
 
 ### Community Example Apps
 
 We have curated a list of community apps that you can refer to as live examples running on Azure Static Web Apps. All of these applications are open-source, and show off various technologies for implementations of static sites.
 
-TODO: Point to Glaucia's Github Repo
+[Static Web Apps Examples Gallery](https://github.com/microsoft/static-web-apps-gallery-code-samples)
 
