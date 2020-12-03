@@ -1,6 +1,28 @@
-# Demo script
+# Demo script prep
 
-Here is one possible demo script for presenting Azure Static Web Apps.
+Steps to prepare in advance
+
+## Prepare in advance
+
+You'll want 2 apps:
+
+1. A working app and repo that you won't modify. Great for showing custom domains and auth, so you dont need to keep building.
+
+1. A repo without the routes.json or workflow, and not deployed to SWA yet.
+
+### Prepare the demo app
+
+These steps will give you an app you can have ready to go. With everything ready, for the demos:
+
+- https://github.com/johnpapa/shopathome/generate
+- name it hello-build
+- remove workflow file (in the repo) - this stops it from running the action against the wrong SWA
+- delete _routes.json_ (in the repo)
+- git clone git@github.com:johnpapa/hello-build.git
+- cd hello-build
+- cd svelte-app && npm install (replace svelte with angular, react, svelte or vue)
+- cd ..
+- cd api && npm install
 
 ## Your Desktop
 
@@ -32,24 +54,3 @@ These 3 snippets will be useful in the demo:
 | `swa-auth-providers` | Add the routes to block google and facebook auth providers                                                                                       |
 | `swa-restrict-api`   | Add the routes to restrict all API calls to authenticated users, and GET discount and PUT, POST, DELETE for requests to auth role of "preferred" |
 
-## Prepare in advance
-
-You'll want 2 apps:
-
-1. A working app and repo that you won't modify. Great for showing custom domains and auth, so you dont need to keep building.
-
-1. A repo without the routes.json or workflow, and not deployed to SWA yet.
-
-### Prepare the demo app
-
-These steps will give you an app you can have ready to go. With everything ready, for the demos:
-
-- https://github.com/johnpapa/shopathome/generate
-- name it hello-build
-- remove workflow file (in the repo) - this stops it from running the action against the wrong SWA
-- delete _routes.json_ (in the repo)
-- git clone git@github.com:johnpapa/hello-build.git
-- cd hello-build
-- cd svelte-app && npm install (replace svelte with angular, react, svelte or vue)
-- cd ..
-- cd api && npm install
